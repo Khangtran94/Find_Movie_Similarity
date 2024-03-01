@@ -39,7 +39,20 @@ The dataset has **100 rows** and **5 columns**
 * ==> TF-IDF helps us recognize words which are unique and important to any given document.
 ### 5. Cluster the movies:
 * Clustering: the method of grouping together a number of items such that they exhibit similar properties.
+  
+![Untitled](https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/784edc79-63d9-46bf-ab6a-e5cbd1597b7f)
 
+### 6. Calculate similarity distance:
+* Similarity distance is 1 - cosine similarity angle.
+* This follows from that if the vectors are similar, the cosine of their angle would be 1 and hence, the distance between then would be 1 - 1 = 0.
 
+### 7. Plot the dendrogram:
+* Dendrograms help visualize the results of hierarchical clustering, which is an alternative to k-means clustering.
+* Two pairs of movies at the same level of hierarchical clustering are expected to have similar strength of similarity between the corresponding pairs of movies
+* The lower the similarity distance between any two movies, the lower their linkage will make an intercept on the y-axis
 
+![Untitled](https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/d27e72fc-e04d-42b7-a5d6-db71a6fc5571)
+
+# Conclusion:
+* Movie similar to **
 
