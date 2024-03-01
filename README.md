@@ -12,6 +12,7 @@
 ## Libraries Used:
 * Pandas
 * Numpy
+* Matplotlib
 * NLTK
 * Regex
 * sklearn
