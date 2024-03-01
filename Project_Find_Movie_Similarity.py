@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import nltk
 import re
+import matplotlib.pyplot as plt
 # Set seed for reproducibility
 np.random.seed(5)
 
@@ -76,12 +77,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 similarity_distance = 1 - cosine_similarity(tfidf_matrix)
 
 print(similarity_distance)
-
-# Import matplotlib.pyplot for plotting graphs
-import matplotlib.pyplot as plt
-
-# Configure matplotlib to display the output inline
-import matplotlib.pyplot as plt
 
 # Import modules necessary to plot dendrogram
 from scipy.cluster.hierarchy import linkage, dendrogram
