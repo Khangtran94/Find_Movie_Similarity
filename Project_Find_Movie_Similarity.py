@@ -72,6 +72,8 @@ print(movies_df['cluster'].value_counts())
 
 ad = pd.DataFrame(movies_df['cluster'].value_counts().sort_index())
 plt.bar(ad.index.to_numpy(), ad["count"].to_numpy())
+plt.xlabel("Cluster")
+plt.ylabel("Number of Movies")
 
 # Import cosine_similarity to calculate similarity of movie plots
 from sklearn.metrics.pairwise import cosine_similarity
