@@ -53,6 +53,9 @@ The dataset has **100 rows** and **5 columns**
 
 ![Untitled](https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/d27e72fc-e04d-42b7-a5d6-db71a6fc5571)
 
-# Conclusion:
-* Movie similar to **
+# Some insight findings and conclusions:
+* Movie similar to **Titanic** is **City Lights**
+<img width="500" alt="Screenshot 2024-03-02 at 19 36 37" src="https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/157a5c3a-f349-4200-94ee-f3ae85496de6">
 
+* Movie similar to **Star Wars** is **Raiders of the Lost Ark**
+<img width="500" alt="Screenshot 2024-03-02 at 19 38 04" src="https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/b3117f0c-30cb-4eea-88c7-fbbe89b917ec">
