@@ -1,5 +1,7 @@
 # ***Find Movie Similarity from Plot Summaries (Source: IMDb and Wikipedia)***
 
+![Untitled](https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/e70f8fdd-28f3-4803-89aa-d706c90c8cf3)
+
 ## Project Objective:
 * Quantify the similarity of movies based on their plot summaries available on IMDb and Wikipedia, then separate them into groups, also known as clusters.   
 * Create a dendrogram to represent how closely the movies are related to each other.
