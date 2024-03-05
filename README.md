@@ -1,5 +1,5 @@
 # ***Find Movie Similarity from Plot Summaries (Source: IMDb and Wikipedia)***
-https://horos.vn/r/RAIB8baSD9
+
 ![Untitled](https://github.com/Khangtran94/Find_Movie_Similarity/assets/146164801/e70f8fdd-28f3-4803-89aa-d706c90c8cf3)
 
 ## Project Objective:
